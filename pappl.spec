@@ -5,7 +5,7 @@
 Summary:	Framework/Library for developing CUPS printer applications
 Name:		pappl
 Version:	1.3.0
-Release:	1
+Release:	2
 Source0:	https://github.com/michaelrsweet/pappl/releases/download/v%{version}/pappl-%{version}.tar.gz
 License:	Apache 2.0
 BuildRequires:	pkgconfig(avahi-core)
