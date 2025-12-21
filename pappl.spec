@@ -8,6 +8,11 @@ Version:	1.4.8
 Release:	1
 Source0:	https://github.com/michaelrsweet/pappl/releases/download/v%{version}/pappl-%{version}.tar.gz
 License:	Apache 2.0
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(avahi-core)
 BuildRequires:	pkgconfig(avahi-client)
 BuildRequires:	cups-devel
