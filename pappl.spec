@@ -4,8 +4,8 @@
 
 Summary:	Framework/Library for developing CUPS printer applications
 Name:		pappl
-Version:	1.4.8
-Release:	2
+Version:	1.4.11
+Release:	1
 Source0:	https://github.com/michaelrsweet/pappl/releases/download/v%{version}/pappl-%{version}.tar.gz
 License:	Apache 2.0
 BuildRequires:	autoconf
